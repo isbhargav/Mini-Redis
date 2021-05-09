@@ -1,0 +1,3 @@
+makefile	server.py	/^        socket_file = conn.makefile(mode='rwb')$/
+namedtuple	server.py	/^Error = namedtuple('Error',('message',))$/
+rstrip	server.py	/^        return socket_file.readline().decode('utf-/
